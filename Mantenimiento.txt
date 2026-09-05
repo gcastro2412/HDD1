@@ -1,0 +1,8 @@
+datos = data["Perfil"]
+plt.hist(datos, bins=3, color=["red"])
+plt.title("Histograma de la variable Perfil")
+plt.xlabel('Valor')
+plt.ylabel('Cantidad mas otros')
+plt.grid(True)
+plt.show()
+plt.show
