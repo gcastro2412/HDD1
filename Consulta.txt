@@ -1,0 +1,10 @@
+# Solicita al usuario que ingrese tres números.
+a = float(input("Ingrese el primer número: "))
+b = float(input("Ingrese el segundo número: "))
+c = float(input("Ingrese el tercer número: "))ssss
+
+# Encuentra el número más grande utilizando la función max().
+max_num = max(a, b, c, x)
+
+# Muestra el número más grande encontrado.
+print("Número más grande de la BD:", max_sssnum)sasa
