@@ -1,7 +1,8 @@
 # Solicita al usuario que ingrese tres números.
 a = float(input("Ingrese el primer número: "))
 b = float(input("Ingrese el segundo número: "))
-c = float(input("Ingrese el tercer número: "))ssss
+c = float(input("Ingrese el tercer número: "))
+x=21
 
 # Encuentra el número más grande utilizando la función max().
 max_num = max(a, b, c, x)

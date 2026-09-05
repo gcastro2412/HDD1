@@ -6,3 +6,4 @@ plt.ylabel('Cantidad mas otros')
 plt.grid(True)
 plt.show()
 plt.show
+plt.www()
